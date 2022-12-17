@@ -110,6 +110,6 @@ When you are ready to submit your project, collect the following files and compr
 Alternatively, your submission could consist of the GitHub link to your repository.
 
 ## Blog Post
-I have written a blog post about this project on Medium. It can be found here:
+### A Medium blog post with the explaining this project can be found here:
 https://medium.com/@data.camp435/dog-breed-classifier-using-convolutional-neural-networks-c0ff69a57372
 

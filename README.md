@@ -108,3 +108,8 @@ When you are ready to submit your project, collect the following files and compr
 - Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
 
 Alternatively, your submission could consist of the GitHub link to your repository.
+
+## Blog Post
+I have written a blog post about this project on Medium. It can be found here:
+https://medium.com/@data.camp435/dog-breed-classifier-using-convolutional-neural-networks-c0ff69a57372
+
